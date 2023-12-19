@@ -25,11 +25,12 @@ actor {
 
 ### 截图
 #### deploy
-![deploy](./img/dfx_deploy_01.png)
+![deploy](img/dfx_deploy_01.png)
 
 #### backend
+![backend命令行](img/backend.png)
 `Candid UI`
-![backend](./img/backend_Candid_UI.png)
+![backend](img/backend_Candid_UI.png)
 
 #### frontend
-![frontend](./img/frontend.png)
+![frontend](img/frontend.png)
