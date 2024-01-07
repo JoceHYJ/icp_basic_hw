@@ -9,3 +9,6 @@
 
 ## 第二讲 Motoko 语言简介
 ### 作业 01
+![icp_02_homework01](https://github.com/JoceHYJ/icp_basic_hw/blob/main/homework02/icp_01.md)
+### 作业 02
+![icp_02_homework02](https://github.com/JoceHYJ/icp_basic_hw/blob/main/homework02/icp_02.md)

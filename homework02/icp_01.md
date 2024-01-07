@@ -1,7 +1,7 @@
 # 第二讲 作业1
 ## 实现快排函数（顺序从小到大）`quicksort : [var Int] -> () `（5 分）
 
-## 代码
+### 代码
 `main.mo`
 ```Motoko
 import Array "mo:base/Array";
@@ -38,6 +38,3 @@ actor {
     };
   };
 ```
-
-## 运行结果
-![quicksort](img/quicksort.png)
